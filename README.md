@@ -1,5 +1,12 @@
 # 알고리즘 스터디 모음
 
+## 2024-09-06 코딩 기초 트레이닝 Day10 (문자열)
+[20240906_qr_code.md](Java%2FProgrammers_Basic_Challenge%2F20240906_qr_code.md)<br>
+[20240906_문자열_뒤집기.md](Java%2FProgrammers_Basic_Challenge%2F20240906_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%92%A4%EC%A7%91%EA%B8%B0.md)<br>
+[20240906_문자열의_앞의_n글자.md](Java%2FProgrammers_Basic_Challenge%2F20240906_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98_%EC%95%9E%EC%9D%98_n%EA%B8%80%EC%9E%90.md)<br>
+[20240906_새로_읽기.md](Java%2FProgrammers_Basic_Challenge%2F20240906_%EC%83%88%EB%A1%9C_%EC%9D%BD%EA%B8%B0.md)<br>
+[20240906_접두사인지_확인하기.md](Java%2FProgrammers_Basic_Challenge%2F20240906_%EC%A0%91%EB%91%90%EC%82%AC%EC%9D%B8%EC%A7%80_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.md)
+
 ## 2024-09-05 코딩 기초 트레이닝 Day9 (문자열)
 [20240905_문자열의_뒤의_n글자.md](Java%2F20240905_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98_%EB%92%A4%EC%9D%98_n%EA%B8%80%EC%9E%90.md)<br>
 [20240905_배열_만들기5.md](Java%2F20240905_%EB%B0%B0%EC%97%B4_%EB%A7%8C%EB%93%A4%EA%B8%B05.md)<br>
