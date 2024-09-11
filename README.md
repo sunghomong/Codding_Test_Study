@@ -1,5 +1,12 @@
 # 알고리즘 스터디 모음
 
+## 2024-09-12 코딩 기초 트레이닝 Day11 (배열)
+[20240912_가까운_1찾기.md](Java%2FProgrammers_Basic_Challenge%2F20240912_%EA%B0%80%EA%B9%8C%EC%9A%B4_1%EC%B0%BE%EA%B8%B0.md)<br>
+[20240912_글자_지우기.md](Java%2FProgrammers_Basic_Challenge%2F20240912_%EA%B8%80%EC%9E%90_%EC%A7%80%EC%9A%B0%EA%B8%B0.md)<br>
+[20240912_문자_개수_세기.md](Java%2FProgrammers_Basic_Challenge%2F20240912_%EB%AC%B8%EC%9E%90_%EA%B0%9C%EC%88%98_%EC%84%B8%EA%B8%B0.md)<br>
+[20240912_배열_만들기1.md](Java%2FProgrammers_Basic_Challenge%2F20240912_%EB%B0%B0%EC%97%B4_%EB%A7%8C%EB%93%A4%EA%B8%B01.md)<br>
+[20240912_카운트_다운.md](Java%2FProgrammers_Basic_Challenge%2F20240912_%EC%B9%B4%EC%9A%B4%ED%8A%B8_%EB%8B%A4%EC%9A%B4.md)
+
 ## 2024-09-06 코딩 기초 트레이닝 Day10 (문자열)
 [20240906_qr_code.md](Java%2FProgrammers_Basic_Challenge%2F20240906_qr_code.md)<br>
 [20240906_문자열_뒤집기.md](Java%2FProgrammers_Basic_Challenge%2F20240906_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%92%A4%EC%A7%91%EA%B8%B0.md)<br>
