@@ -1,7 +1,7 @@
 # 알고리즘 스터디 모음
 
 ## 코딩 기초 트레이닝 모음 Day1 ~ 
-
+[코딩 기초 트레이닝 모음](Java%2FProgrammers_Basic_Challenge%2FREADME.md)
 
 ## 2024-09-12 코딩 기초 트레이닝 Day11 (배열)
 [20240912_가까운_1찾기.md](Java%2FProgrammers_Basic_Challenge%2F20240912_%EA%B0%80%EA%B9%8C%EC%9A%B4_1%EC%B0%BE%EA%B8%B0.md)<br>
